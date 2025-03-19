@@ -24,3 +24,10 @@ def verifica_parenteses(expressao):
 # Teste
 print(verifica_parenteses("((()))"))  # True
 print(verifica_parenteses("(()))"))   # False
+
+```
+# Referências
+https://docs.python.org/pt-br/3/tutorial/datastructures.html;
+Livro: "Estruturas de Dados e Algoritmos em Python" (Michael T. Goodrich);
+https://www.geeksforgeeks.org/data-structures/;
+https://chatgpt.com/;
